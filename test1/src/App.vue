@@ -5,6 +5,7 @@ let msg = ref('你好，世界')
 
 <template>
   <div>{{ msg }}</div>
+  <el-button>defult</el-button>
 </template>
 
 <style scoped>
